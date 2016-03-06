@@ -17,7 +17,7 @@ docker-machine ip
 
 Let's say it is 192.168.99.100. Then, you should access your container by typing:
 
-https://192.168.99.11:8443/simplesaml/
+https://192.168.99.100:8443/simplesaml/
 
 Apache configuration is embedded into the image. You can set any configuration that you want in ./etc/apache2/sites-enabled/
 
